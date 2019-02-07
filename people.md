@@ -28,7 +28,7 @@ changing in different pathologic conditions.
 <h3>Péter Szikora</h3>
 
 I am a master student in Medical Biotechnology at [Pázmány Péter Catholic
-University](https://ppke.hu/en), focusing on molecular oncology and genomics.
+University](https://itk.ppke.hu/en), focusing on molecular oncology and genomics.
 Before that I completed my professional practice in the National Institute of
 Environmental Health, working on the molecular analysis of pathogenic bacteria
 from hospital water samples. I am currently working on the analysis of
